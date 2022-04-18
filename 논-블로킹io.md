@@ -6,6 +6,8 @@
 
 반대로 블로킹은 이전 작엄이 끝나야만 다음 작업을 수행한다.
 
+<img src="https://grip.news/wp-content/uploads/2019/06/bio_01.gif" width="500">
+
 ---
 
 # 비동기(asynchronous) i/o
