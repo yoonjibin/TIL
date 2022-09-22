@@ -11,7 +11,7 @@
   👺 CRUD Operation이란
     CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이터 처리 기능인 Create(생성),Read(읽기),Update(갱신),Delete(삭제)를 묶어서 일컫는 말이다.
  ```
- ## REST의 구성 요소<br>
+ ## 👺 REST의 구성 요소<br>
   &nbsp;&nbsp; REST는 다음과 같은 3가지로 구성되어있다.<br>
   1. 자원(Resource):HTTP URL
   2. 자원에 대한 행위(Verb):HTTP Method
@@ -23,7 +23,7 @@
   3. Cacheable(캐시 처리 기능)
   4. Layered System(계층화)
   5. Uniform Interface(인터페이스 일관성)
-## REST의 장단점
+## 👺 REST의 장단점
 ### 장점
 * HTTP 프로토콜의 인프라를 그대로 사용하므로 REST API 사용을 위한 별도의 인프라를 구축할 필요가 없다.
 * HTTP 프로토콜의 표준을 최대한 활용하여 여러 추가적인 장점을 함께 가져갈 수 있게 해 준다.
